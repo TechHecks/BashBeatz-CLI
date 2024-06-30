@@ -1,0 +1,2674 @@
+Selected node: <ref *1> {
+  name: 'J. Cole',
+  extended: true,
+  children: {
+    'Friday Night Lights': {
+      name: 'Friday Night Lights',
+      extended: false,
+      children: {
+        'Friday Night Lights (Intro)': {
+          name: 'Friday Night Lights (Intro)',
+          file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+        },
+        'Too Deep for the Intro': {
+          name: 'Too Deep for the Intro',
+          file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+        },
+        'Blow Up': {
+          name: 'Blow Up',
+          file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 0,
+      childrenContent: {
+        'Friday Night Lights (Intro)': {
+          name: 'Friday Night Lights (Intro)',
+          file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+        },
+        'Too Deep for the Intro': {
+          name: 'Too Deep for the Intro',
+          file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+        },
+        'Blow Up': {
+          name: 'Blow Up',
+          file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+        }
+      },
+      depth: 1
+    },
+    'Born Sinner ': {
+      name: 'Born Sinner ',
+      extended: false,
+      children: {
+        'LAnd of the Snakes': {
+          name: 'LAnd of the Snakes',
+          file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 1,
+      childrenContent: {
+        'LAnd of the Snakes': {
+          name: 'LAnd of the Snakes',
+          file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+        }
+      },
+      depth: 1
+    },
+    'Forest Hills Drive: Live from Fayetteville, NC': {
+      name: 'Forest Hills Drive: Live from Fayetteville, NC',
+      extended: false,
+      children: {
+        "03' Adolescence": {
+          name: "03' Adolescence",
+          file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+        },
+        'A Tale of 2 Citiez': {
+          name: 'A Tale of 2 Citiez',
+          file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+        },
+        'Fire Squad': {
+          name: 'Fire Squad',
+          file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+        },
+        'St. Tropez': {
+          name: 'St. Tropez',
+          file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+        },
+        `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+          name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+          file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+        },
+        'No Role Modelz': {
+          name: 'No Role Modelz',
+          file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 2,
+      childrenContent: {
+        "03' Adolescence": {
+          name: "03' Adolescence",
+          file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+        },
+        'A Tale of 2 Citiez': {
+          name: 'A Tale of 2 Citiez',
+          file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+        },
+        'Fire Squad': {
+          name: 'Fire Squad',
+          file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+        },
+        'St. Tropez': {
+          name: 'St. Tropez',
+          file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+        },
+        `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+          name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+          file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+        },
+        'No Role Modelz': {
+          name: 'No Role Modelz',
+          file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+        }
+      },
+      depth: 1
+    },
+    'The Warm Up': {
+      name: 'The Warm Up',
+      extended: false,
+      children: {
+        'Dead Presidents 2': {
+          name: 'Dead Presidents 2',
+          file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 3,
+      childrenContent: {
+        'Dead Presidents 2': {
+          name: 'Dead Presidents 2',
+          file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+        }
+      },
+      depth: 1
+    }
+  },
+  parent: <ref *2> {
+    extended: true,
+    children: {
+      'J. Cole': [Circular *1],
+      'Kanye West': {
+        name: 'Kanye West',
+        extended: false,
+        children: {
+          Graduation: {
+            name: 'Graduation',
+            extended: false,
+            children: {
+              Stronger: {
+                name: 'Stronger',
+                file: '/home/prajyot-mane/Music/03Stronger.mp3'
+              },
+              "Can't Tell Me Nothing": {
+                name: "Can't Tell Me Nothing",
+                file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+              },
+              'Flashing Lights': {
+                name: 'Flashing Lights',
+                file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 1,
+        childrenContent: {
+          Graduation: {
+            name: 'Graduation',
+            extended: false,
+            children: {
+              Stronger: {
+                name: 'Stronger',
+                file: '/home/prajyot-mane/Music/03Stronger.mp3'
+              },
+              "Can't Tell Me Nothing": {
+                name: "Can't Tell Me Nothing",
+                file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+              },
+              'Flashing Lights': {
+                name: 'Flashing Lights',
+                file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      },
+      Music33: {
+        name: 'Music33',
+        children: {},
+        parent: [Circular *2],
+        position: 2,
+        extended: false,
+        childrenContent: {},
+        depth: 0
+      },
+      'Unknown Artist': {
+        name: 'Unknown Artist',
+        extended: false,
+        children: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 3,
+        childrenContent: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      }
+    },
+    parent: null,
+    depth: -1,
+    childrenContent: {
+      'J. Cole': [Circular *1],
+      'Kanye West': {
+        name: 'Kanye West',
+        extended: false,
+        children: {
+          Graduation: {
+            name: 'Graduation',
+            extended: false,
+            children: {
+              Stronger: {
+                name: 'Stronger',
+                file: '/home/prajyot-mane/Music/03Stronger.mp3'
+              },
+              "Can't Tell Me Nothing": {
+                name: "Can't Tell Me Nothing",
+                file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+              },
+              'Flashing Lights': {
+                name: 'Flashing Lights',
+                file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 1,
+        childrenContent: {
+          Graduation: {
+            name: 'Graduation',
+            extended: false,
+            children: {
+              Stronger: {
+                name: 'Stronger',
+                file: '/home/prajyot-mane/Music/03Stronger.mp3'
+              },
+              "Can't Tell Me Nothing": {
+                name: "Can't Tell Me Nothing",
+                file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+              },
+              'Flashing Lights': {
+                name: 'Flashing Lights',
+                file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      },
+      Music33: {
+        name: 'Music33',
+        children: {},
+        parent: [Circular *2],
+        position: 2,
+        extended: false,
+        childrenContent: {},
+        depth: 0
+      },
+      'Unknown Artist': {
+        name: 'Unknown Artist',
+        extended: false,
+        children: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 3,
+        childrenContent: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      }
+    }
+  },
+  position: 0,
+  childrenContent: {
+    'Friday Night Lights': {
+      name: 'Friday Night Lights',
+      extended: false,
+      children: {
+        'Friday Night Lights (Intro)': {
+          name: 'Friday Night Lights (Intro)',
+          file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+        },
+        'Too Deep for the Intro': {
+          name: 'Too Deep for the Intro',
+          file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+        },
+        'Blow Up': {
+          name: 'Blow Up',
+          file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 0,
+      childrenContent: {
+        'Friday Night Lights (Intro)': {
+          name: 'Friday Night Lights (Intro)',
+          file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+        },
+        'Too Deep for the Intro': {
+          name: 'Too Deep for the Intro',
+          file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+        },
+        'Blow Up': {
+          name: 'Blow Up',
+          file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+        }
+      },
+      depth: 1
+    },
+    'Born Sinner ': {
+      name: 'Born Sinner ',
+      extended: false,
+      children: {
+        'LAnd of the Snakes': {
+          name: 'LAnd of the Snakes',
+          file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 1,
+      childrenContent: {
+        'LAnd of the Snakes': {
+          name: 'LAnd of the Snakes',
+          file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+        }
+      },
+      depth: 1
+    },
+    'Forest Hills Drive: Live from Fayetteville, NC': {
+      name: 'Forest Hills Drive: Live from Fayetteville, NC',
+      extended: false,
+      children: {
+        "03' Adolescence": {
+          name: "03' Adolescence",
+          file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+        },
+        'A Tale of 2 Citiez': {
+          name: 'A Tale of 2 Citiez',
+          file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+        },
+        'Fire Squad': {
+          name: 'Fire Squad',
+          file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+        },
+        'St. Tropez': {
+          name: 'St. Tropez',
+          file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+        },
+        `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+          name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+          file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+        },
+        'No Role Modelz': {
+          name: 'No Role Modelz',
+          file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 2,
+      childrenContent: {
+        "03' Adolescence": {
+          name: "03' Adolescence",
+          file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+        },
+        'A Tale of 2 Citiez': {
+          name: 'A Tale of 2 Citiez',
+          file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+        },
+        'Fire Squad': {
+          name: 'Fire Squad',
+          file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+        },
+        'St. Tropez': {
+          name: 'St. Tropez',
+          file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+        },
+        `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+          name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+          file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+        },
+        'No Role Modelz': {
+          name: 'No Role Modelz',
+          file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+        }
+      },
+      depth: 1
+    },
+    'The Warm Up': {
+      name: 'The Warm Up',
+      extended: false,
+      children: {
+        'Dead Presidents 2': {
+          name: 'Dead Presidents 2',
+          file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 3,
+      childrenContent: {
+        'Dead Presidents 2': {
+          name: 'Dead Presidents 2',
+          file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+        }
+      },
+      depth: 1
+    }
+  },
+  depth: 0
+}
+Initial tableData: [ [ 'Title', 'Track' ] ]
+Node has children
+First child: <ref *1> {
+  name: 'Friday Night Lights',
+  extended: false,
+  children: {
+    'Friday Night Lights (Intro)': {
+      name: 'Friday Night Lights (Intro)',
+      file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+    },
+    'Too Deep for the Intro': {
+      name: 'Too Deep for the Intro',
+      file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+    },
+    'Blow Up': {
+      name: 'Blow Up',
+      file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+    }
+  },
+  parent: <ref *2> {
+    name: 'J. Cole',
+    extended: true,
+    children: {
+      'Friday Night Lights': [Circular *1],
+      'Born Sinner ': {
+        name: 'Born Sinner ',
+        extended: false,
+        children: {
+          'LAnd of the Snakes': {
+            name: 'LAnd of the Snakes',
+            file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 1,
+        childrenContent: {
+          'LAnd of the Snakes': {
+            name: 'LAnd of the Snakes',
+            file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+          }
+        },
+        depth: 1
+      },
+      'Forest Hills Drive: Live from Fayetteville, NC': {
+        name: 'Forest Hills Drive: Live from Fayetteville, NC',
+        extended: false,
+        children: {
+          "03' Adolescence": {
+            name: "03' Adolescence",
+            file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+          },
+          'A Tale of 2 Citiez': {
+            name: 'A Tale of 2 Citiez',
+            file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+          },
+          'Fire Squad': {
+            name: 'Fire Squad',
+            file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+          },
+          'St. Tropez': {
+            name: 'St. Tropez',
+            file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+          },
+          `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+            name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+            file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+          },
+          'No Role Modelz': {
+            name: 'No Role Modelz',
+            file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 2,
+        childrenContent: {
+          "03' Adolescence": {
+            name: "03' Adolescence",
+            file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+          },
+          'A Tale of 2 Citiez': {
+            name: 'A Tale of 2 Citiez',
+            file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+          },
+          'Fire Squad': {
+            name: 'Fire Squad',
+            file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+          },
+          'St. Tropez': {
+            name: 'St. Tropez',
+            file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+          },
+          `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+            name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+            file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+          },
+          'No Role Modelz': {
+            name: 'No Role Modelz',
+            file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+          }
+        },
+        depth: 1
+      },
+      'The Warm Up': {
+        name: 'The Warm Up',
+        extended: false,
+        children: {
+          'Dead Presidents 2': {
+            name: 'Dead Presidents 2',
+            file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 3,
+        childrenContent: {
+          'Dead Presidents 2': {
+            name: 'Dead Presidents 2',
+            file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+          }
+        },
+        depth: 1
+      }
+    },
+    parent: <ref *3> {
+      extended: true,
+      children: {
+        'J. Cole': [Circular *2],
+        'Kanye West': {
+          name: 'Kanye West',
+          extended: false,
+          children: {
+            Graduation: {
+              name: 'Graduation',
+              extended: false,
+              children: {
+                Stronger: {
+                  name: 'Stronger',
+                  file: '/home/prajyot-mane/Music/03Stronger.mp3'
+                },
+                "Can't Tell Me Nothing": {
+                  name: "Can't Tell Me Nothing",
+                  file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+                },
+                'Flashing Lights': {
+                  name: 'Flashing Lights',
+                  file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *3],
+          position: 1,
+          childrenContent: {
+            Graduation: {
+              name: 'Graduation',
+              extended: false,
+              children: {
+                Stronger: {
+                  name: 'Stronger',
+                  file: '/home/prajyot-mane/Music/03Stronger.mp3'
+                },
+                "Can't Tell Me Nothing": {
+                  name: "Can't Tell Me Nothing",
+                  file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+                },
+                'Flashing Lights': {
+                  name: 'Flashing Lights',
+                  file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        },
+        Music33: {
+          name: 'Music33',
+          children: {},
+          parent: [Circular *3],
+          position: 2,
+          extended: false,
+          childrenContent: {},
+          depth: 0
+        },
+        'Unknown Artist': {
+          name: 'Unknown Artist',
+          extended: false,
+          children: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *3],
+          position: 3,
+          childrenContent: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        }
+      },
+      parent: null,
+      depth: -1,
+      childrenContent: {
+        'J. Cole': [Circular *2],
+        'Kanye West': {
+          name: 'Kanye West',
+          extended: false,
+          children: {
+            Graduation: {
+              name: 'Graduation',
+              extended: false,
+              children: {
+                Stronger: {
+                  name: 'Stronger',
+                  file: '/home/prajyot-mane/Music/03Stronger.mp3'
+                },
+                "Can't Tell Me Nothing": {
+                  name: "Can't Tell Me Nothing",
+                  file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+                },
+                'Flashing Lights': {
+                  name: 'Flashing Lights',
+                  file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *3],
+          position: 1,
+          childrenContent: {
+            Graduation: {
+              name: 'Graduation',
+              extended: false,
+              children: {
+                Stronger: {
+                  name: 'Stronger',
+                  file: '/home/prajyot-mane/Music/03Stronger.mp3'
+                },
+                "Can't Tell Me Nothing": {
+                  name: "Can't Tell Me Nothing",
+                  file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+                },
+                'Flashing Lights': {
+                  name: 'Flashing Lights',
+                  file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        },
+        Music33: {
+          name: 'Music33',
+          children: {},
+          parent: [Circular *3],
+          position: 2,
+          extended: false,
+          childrenContent: {},
+          depth: 0
+        },
+        'Unknown Artist': {
+          name: 'Unknown Artist',
+          extended: false,
+          children: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *3],
+          position: 3,
+          childrenContent: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        }
+      }
+    },
+    position: 0,
+    childrenContent: {
+      'Friday Night Lights': [Circular *1],
+      'Born Sinner ': {
+        name: 'Born Sinner ',
+        extended: false,
+        children: {
+          'LAnd of the Snakes': {
+            name: 'LAnd of the Snakes',
+            file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 1,
+        childrenContent: {
+          'LAnd of the Snakes': {
+            name: 'LAnd of the Snakes',
+            file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+          }
+        },
+        depth: 1
+      },
+      'Forest Hills Drive: Live from Fayetteville, NC': {
+        name: 'Forest Hills Drive: Live from Fayetteville, NC',
+        extended: false,
+        children: {
+          "03' Adolescence": {
+            name: "03' Adolescence",
+            file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+          },
+          'A Tale of 2 Citiez': {
+            name: 'A Tale of 2 Citiez',
+            file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+          },
+          'Fire Squad': {
+            name: 'Fire Squad',
+            file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+          },
+          'St. Tropez': {
+            name: 'St. Tropez',
+            file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+          },
+          `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+            name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+            file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+          },
+          'No Role Modelz': {
+            name: 'No Role Modelz',
+            file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 2,
+        childrenContent: {
+          "03' Adolescence": {
+            name: "03' Adolescence",
+            file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+          },
+          'A Tale of 2 Citiez': {
+            name: 'A Tale of 2 Citiez',
+            file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+          },
+          'Fire Squad': {
+            name: 'Fire Squad',
+            file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+          },
+          'St. Tropez': {
+            name: 'St. Tropez',
+            file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+          },
+          `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+            name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+            file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+          },
+          'No Role Modelz': {
+            name: 'No Role Modelz',
+            file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+          }
+        },
+        depth: 1
+      },
+      'The Warm Up': {
+        name: 'The Warm Up',
+        extended: false,
+        children: {
+          'Dead Presidents 2': {
+            name: 'Dead Presidents 2',
+            file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 3,
+        childrenContent: {
+          'Dead Presidents 2': {
+            name: 'Dead Presidents 2',
+            file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+          }
+        },
+        depth: 1
+      }
+    },
+    depth: 0
+  },
+  position: 0,
+  childrenContent: {
+    'Friday Night Lights (Intro)': {
+      name: 'Friday Night Lights (Intro)',
+      file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+    },
+    'Too Deep for the Intro': {
+      name: 'Too Deep for the Intro',
+      file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+    },
+    'Blow Up': {
+      name: 'Blow Up',
+      file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+    }
+  },
+  depth: 1
+}
+Node is an artist
+Before setting table data
+Selected node: <ref *1> {
+  name: 'J. Cole',
+  extended: true,
+  children: {
+    'Friday Night Lights': {
+      name: 'Friday Night Lights',
+      extended: false,
+      children: {
+        'Friday Night Lights (Intro)': {
+          name: 'Friday Night Lights (Intro)',
+          file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+        },
+        'Too Deep for the Intro': {
+          name: 'Too Deep for the Intro',
+          file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+        },
+        'Blow Up': {
+          name: 'Blow Up',
+          file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 0,
+      childrenContent: {
+        'Friday Night Lights (Intro)': {
+          name: 'Friday Night Lights (Intro)',
+          file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+        },
+        'Too Deep for the Intro': {
+          name: 'Too Deep for the Intro',
+          file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+        },
+        'Blow Up': {
+          name: 'Blow Up',
+          file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+        }
+      },
+      depth: 1
+    },
+    'Born Sinner ': {
+      name: 'Born Sinner ',
+      extended: false,
+      children: {
+        'LAnd of the Snakes': {
+          name: 'LAnd of the Snakes',
+          file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 1,
+      childrenContent: {
+        'LAnd of the Snakes': {
+          name: 'LAnd of the Snakes',
+          file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+        }
+      },
+      depth: 1
+    },
+    'Forest Hills Drive: Live from Fayetteville, NC': {
+      name: 'Forest Hills Drive: Live from Fayetteville, NC',
+      extended: false,
+      children: {
+        "03' Adolescence": {
+          name: "03' Adolescence",
+          file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+        },
+        'A Tale of 2 Citiez': {
+          name: 'A Tale of 2 Citiez',
+          file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+        },
+        'Fire Squad': {
+          name: 'Fire Squad',
+          file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+        },
+        'St. Tropez': {
+          name: 'St. Tropez',
+          file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+        },
+        `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+          name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+          file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+        },
+        'No Role Modelz': {
+          name: 'No Role Modelz',
+          file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 2,
+      childrenContent: {
+        "03' Adolescence": {
+          name: "03' Adolescence",
+          file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+        },
+        'A Tale of 2 Citiez': {
+          name: 'A Tale of 2 Citiez',
+          file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+        },
+        'Fire Squad': {
+          name: 'Fire Squad',
+          file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+        },
+        'St. Tropez': {
+          name: 'St. Tropez',
+          file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+        },
+        `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+          name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+          file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+        },
+        'No Role Modelz': {
+          name: 'No Role Modelz',
+          file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+        }
+      },
+      depth: 1
+    },
+    'The Warm Up': {
+      name: 'The Warm Up',
+      extended: false,
+      children: {
+        'Dead Presidents 2': {
+          name: 'Dead Presidents 2',
+          file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 3,
+      childrenContent: {
+        'Dead Presidents 2': {
+          name: 'Dead Presidents 2',
+          file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+        }
+      },
+      depth: 1
+    }
+  },
+  parent: <ref *2> {
+    extended: true,
+    children: {
+      'J. Cole': [Circular *1],
+      'Kanye West': {
+        name: 'Kanye West',
+        extended: false,
+        children: {
+          Graduation: {
+            name: 'Graduation',
+            extended: false,
+            children: {
+              Stronger: {
+                name: 'Stronger',
+                file: '/home/prajyot-mane/Music/03Stronger.mp3'
+              },
+              "Can't Tell Me Nothing": {
+                name: "Can't Tell Me Nothing",
+                file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+              },
+              'Flashing Lights': {
+                name: 'Flashing Lights',
+                file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 1,
+        childrenContent: {
+          Graduation: {
+            name: 'Graduation',
+            extended: false,
+            children: {
+              Stronger: {
+                name: 'Stronger',
+                file: '/home/prajyot-mane/Music/03Stronger.mp3'
+              },
+              "Can't Tell Me Nothing": {
+                name: "Can't Tell Me Nothing",
+                file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+              },
+              'Flashing Lights': {
+                name: 'Flashing Lights',
+                file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      },
+      Music33: {
+        name: 'Music33',
+        children: {},
+        parent: [Circular *2],
+        position: 2,
+        extended: false,
+        childrenContent: {},
+        depth: 0
+      },
+      'Unknown Artist': {
+        name: 'Unknown Artist',
+        extended: false,
+        children: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 3,
+        childrenContent: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      }
+    },
+    parent: null,
+    depth: -1,
+    childrenContent: {
+      'J. Cole': [Circular *1],
+      'Kanye West': {
+        name: 'Kanye West',
+        extended: false,
+        children: {
+          Graduation: {
+            name: 'Graduation',
+            extended: false,
+            children: {
+              Stronger: {
+                name: 'Stronger',
+                file: '/home/prajyot-mane/Music/03Stronger.mp3'
+              },
+              "Can't Tell Me Nothing": {
+                name: "Can't Tell Me Nothing",
+                file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+              },
+              'Flashing Lights': {
+                name: 'Flashing Lights',
+                file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 1,
+        childrenContent: {
+          Graduation: {
+            name: 'Graduation',
+            extended: false,
+            children: {
+              Stronger: {
+                name: 'Stronger',
+                file: '/home/prajyot-mane/Music/03Stronger.mp3'
+              },
+              "Can't Tell Me Nothing": {
+                name: "Can't Tell Me Nothing",
+                file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+              },
+              'Flashing Lights': {
+                name: 'Flashing Lights',
+                file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      },
+      Music33: {
+        name: 'Music33',
+        children: {},
+        parent: [Circular *2],
+        position: 2,
+        extended: false,
+        childrenContent: {},
+        depth: 0
+      },
+      'Unknown Artist': {
+        name: 'Unknown Artist',
+        extended: false,
+        children: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 3,
+        childrenContent: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      }
+    }
+  },
+  position: 0,
+  childrenContent: {
+    'Friday Night Lights': {
+      name: 'Friday Night Lights',
+      extended: false,
+      children: {
+        'Friday Night Lights (Intro)': {
+          name: 'Friday Night Lights (Intro)',
+          file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+        },
+        'Too Deep for the Intro': {
+          name: 'Too Deep for the Intro',
+          file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+        },
+        'Blow Up': {
+          name: 'Blow Up',
+          file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 0,
+      childrenContent: {
+        'Friday Night Lights (Intro)': {
+          name: 'Friday Night Lights (Intro)',
+          file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+        },
+        'Too Deep for the Intro': {
+          name: 'Too Deep for the Intro',
+          file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+        },
+        'Blow Up': {
+          name: 'Blow Up',
+          file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+        }
+      },
+      depth: 1
+    },
+    'Born Sinner ': {
+      name: 'Born Sinner ',
+      extended: false,
+      children: {
+        'LAnd of the Snakes': {
+          name: 'LAnd of the Snakes',
+          file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 1,
+      childrenContent: {
+        'LAnd of the Snakes': {
+          name: 'LAnd of the Snakes',
+          file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+        }
+      },
+      depth: 1
+    },
+    'Forest Hills Drive: Live from Fayetteville, NC': {
+      name: 'Forest Hills Drive: Live from Fayetteville, NC',
+      extended: false,
+      children: {
+        "03' Adolescence": {
+          name: "03' Adolescence",
+          file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+        },
+        'A Tale of 2 Citiez': {
+          name: 'A Tale of 2 Citiez',
+          file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+        },
+        'Fire Squad': {
+          name: 'Fire Squad',
+          file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+        },
+        'St. Tropez': {
+          name: 'St. Tropez',
+          file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+        },
+        `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+          name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+          file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+        },
+        'No Role Modelz': {
+          name: 'No Role Modelz',
+          file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 2,
+      childrenContent: {
+        "03' Adolescence": {
+          name: "03' Adolescence",
+          file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+        },
+        'A Tale of 2 Citiez': {
+          name: 'A Tale of 2 Citiez',
+          file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+        },
+        'Fire Squad': {
+          name: 'Fire Squad',
+          file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+        },
+        'St. Tropez': {
+          name: 'St. Tropez',
+          file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+        },
+        `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+          name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+          file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+        },
+        'No Role Modelz': {
+          name: 'No Role Modelz',
+          file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+        }
+      },
+      depth: 1
+    },
+    'The Warm Up': {
+      name: 'The Warm Up',
+      extended: false,
+      children: {
+        'Dead Presidents 2': {
+          name: 'Dead Presidents 2',
+          file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 3,
+      childrenContent: {
+        'Dead Presidents 2': {
+          name: 'Dead Presidents 2',
+          file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+        }
+      },
+      depth: 1
+    }
+  },
+  depth: 0
+}
+Initial tableData: [ [ 'Title', 'Track' ] ]
+Node has children
+First child: <ref *1> {
+  name: 'Friday Night Lights',
+  extended: false,
+  children: {
+    'Friday Night Lights (Intro)': {
+      name: 'Friday Night Lights (Intro)',
+      file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+    },
+    'Too Deep for the Intro': {
+      name: 'Too Deep for the Intro',
+      file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+    },
+    'Blow Up': {
+      name: 'Blow Up',
+      file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+    }
+  },
+  parent: <ref *2> {
+    name: 'J. Cole',
+    extended: true,
+    children: {
+      'Friday Night Lights': [Circular *1],
+      'Born Sinner ': {
+        name: 'Born Sinner ',
+        extended: false,
+        children: {
+          'LAnd of the Snakes': {
+            name: 'LAnd of the Snakes',
+            file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 1,
+        childrenContent: {
+          'LAnd of the Snakes': {
+            name: 'LAnd of the Snakes',
+            file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+          }
+        },
+        depth: 1
+      },
+      'Forest Hills Drive: Live from Fayetteville, NC': {
+        name: 'Forest Hills Drive: Live from Fayetteville, NC',
+        extended: false,
+        children: {
+          "03' Adolescence": {
+            name: "03' Adolescence",
+            file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+          },
+          'A Tale of 2 Citiez': {
+            name: 'A Tale of 2 Citiez',
+            file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+          },
+          'Fire Squad': {
+            name: 'Fire Squad',
+            file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+          },
+          'St. Tropez': {
+            name: 'St. Tropez',
+            file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+          },
+          `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+            name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+            file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+          },
+          'No Role Modelz': {
+            name: 'No Role Modelz',
+            file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 2,
+        childrenContent: {
+          "03' Adolescence": {
+            name: "03' Adolescence",
+            file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+          },
+          'A Tale of 2 Citiez': {
+            name: 'A Tale of 2 Citiez',
+            file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+          },
+          'Fire Squad': {
+            name: 'Fire Squad',
+            file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+          },
+          'St. Tropez': {
+            name: 'St. Tropez',
+            file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+          },
+          `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+            name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+            file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+          },
+          'No Role Modelz': {
+            name: 'No Role Modelz',
+            file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+          }
+        },
+        depth: 1
+      },
+      'The Warm Up': {
+        name: 'The Warm Up',
+        extended: false,
+        children: {
+          'Dead Presidents 2': {
+            name: 'Dead Presidents 2',
+            file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 3,
+        childrenContent: {
+          'Dead Presidents 2': {
+            name: 'Dead Presidents 2',
+            file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+          }
+        },
+        depth: 1
+      }
+    },
+    parent: <ref *3> {
+      extended: true,
+      children: {
+        'J. Cole': [Circular *2],
+        'Kanye West': {
+          name: 'Kanye West',
+          extended: false,
+          children: {
+            Graduation: {
+              name: 'Graduation',
+              extended: false,
+              children: {
+                Stronger: {
+                  name: 'Stronger',
+                  file: '/home/prajyot-mane/Music/03Stronger.mp3'
+                },
+                "Can't Tell Me Nothing": {
+                  name: "Can't Tell Me Nothing",
+                  file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+                },
+                'Flashing Lights': {
+                  name: 'Flashing Lights',
+                  file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *3],
+          position: 1,
+          childrenContent: {
+            Graduation: {
+              name: 'Graduation',
+              extended: false,
+              children: {
+                Stronger: {
+                  name: 'Stronger',
+                  file: '/home/prajyot-mane/Music/03Stronger.mp3'
+                },
+                "Can't Tell Me Nothing": {
+                  name: "Can't Tell Me Nothing",
+                  file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+                },
+                'Flashing Lights': {
+                  name: 'Flashing Lights',
+                  file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        },
+        Music33: {
+          name: 'Music33',
+          children: {},
+          parent: [Circular *3],
+          position: 2,
+          extended: false,
+          childrenContent: {},
+          depth: 0
+        },
+        'Unknown Artist': {
+          name: 'Unknown Artist',
+          extended: false,
+          children: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *3],
+          position: 3,
+          childrenContent: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        }
+      },
+      parent: null,
+      depth: -1,
+      childrenContent: {
+        'J. Cole': [Circular *2],
+        'Kanye West': {
+          name: 'Kanye West',
+          extended: false,
+          children: {
+            Graduation: {
+              name: 'Graduation',
+              extended: false,
+              children: {
+                Stronger: {
+                  name: 'Stronger',
+                  file: '/home/prajyot-mane/Music/03Stronger.mp3'
+                },
+                "Can't Tell Me Nothing": {
+                  name: "Can't Tell Me Nothing",
+                  file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+                },
+                'Flashing Lights': {
+                  name: 'Flashing Lights',
+                  file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *3],
+          position: 1,
+          childrenContent: {
+            Graduation: {
+              name: 'Graduation',
+              extended: false,
+              children: {
+                Stronger: {
+                  name: 'Stronger',
+                  file: '/home/prajyot-mane/Music/03Stronger.mp3'
+                },
+                "Can't Tell Me Nothing": {
+                  name: "Can't Tell Me Nothing",
+                  file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+                },
+                'Flashing Lights': {
+                  name: 'Flashing Lights',
+                  file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        },
+        Music33: {
+          name: 'Music33',
+          children: {},
+          parent: [Circular *3],
+          position: 2,
+          extended: false,
+          childrenContent: {},
+          depth: 0
+        },
+        'Unknown Artist': {
+          name: 'Unknown Artist',
+          extended: false,
+          children: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *3],
+          position: 3,
+          childrenContent: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        }
+      }
+    },
+    position: 0,
+    childrenContent: {
+      'Friday Night Lights': [Circular *1],
+      'Born Sinner ': {
+        name: 'Born Sinner ',
+        extended: false,
+        children: {
+          'LAnd of the Snakes': {
+            name: 'LAnd of the Snakes',
+            file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 1,
+        childrenContent: {
+          'LAnd of the Snakes': {
+            name: 'LAnd of the Snakes',
+            file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+          }
+        },
+        depth: 1
+      },
+      'Forest Hills Drive: Live from Fayetteville, NC': {
+        name: 'Forest Hills Drive: Live from Fayetteville, NC',
+        extended: false,
+        children: {
+          "03' Adolescence": {
+            name: "03' Adolescence",
+            file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+          },
+          'A Tale of 2 Citiez': {
+            name: 'A Tale of 2 Citiez',
+            file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+          },
+          'Fire Squad': {
+            name: 'Fire Squad',
+            file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+          },
+          'St. Tropez': {
+            name: 'St. Tropez',
+            file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+          },
+          `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+            name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+            file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+          },
+          'No Role Modelz': {
+            name: 'No Role Modelz',
+            file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 2,
+        childrenContent: {
+          "03' Adolescence": {
+            name: "03' Adolescence",
+            file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+          },
+          'A Tale of 2 Citiez': {
+            name: 'A Tale of 2 Citiez',
+            file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+          },
+          'Fire Squad': {
+            name: 'Fire Squad',
+            file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+          },
+          'St. Tropez': {
+            name: 'St. Tropez',
+            file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+          },
+          `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+            name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+            file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+          },
+          'No Role Modelz': {
+            name: 'No Role Modelz',
+            file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+          }
+        },
+        depth: 1
+      },
+      'The Warm Up': {
+        name: 'The Warm Up',
+        extended: false,
+        children: {
+          'Dead Presidents 2': {
+            name: 'Dead Presidents 2',
+            file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+          }
+        },
+        parent: [Circular *2],
+        position: 3,
+        childrenContent: {
+          'Dead Presidents 2': {
+            name: 'Dead Presidents 2',
+            file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+          }
+        },
+        depth: 1
+      }
+    },
+    depth: 0
+  },
+  position: 0,
+  childrenContent: {
+    'Friday Night Lights (Intro)': {
+      name: 'Friday Night Lights (Intro)',
+      file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+    },
+    'Too Deep for the Intro': {
+      name: 'Too Deep for the Intro',
+      file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+    },
+    'Blow Up': {
+      name: 'Blow Up',
+      file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+    }
+  },
+  depth: 1
+}
+Node is an artist
+Before setting table data
+tableData: [ [ 'Title', 'Track' ], [ 'No songs selected', '' ] ]
+Selected node: <ref *1> {
+  name: 'Kanye West',
+  extended: true,
+  children: {
+    Graduation: {
+      name: 'Graduation',
+      extended: false,
+      children: {
+        Stronger: {
+          name: 'Stronger',
+          file: '/home/prajyot-mane/Music/03Stronger.mp3'
+        },
+        "Can't Tell Me Nothing": {
+          name: "Can't Tell Me Nothing",
+          file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+        },
+        'Flashing Lights': {
+          name: 'Flashing Lights',
+          file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 0,
+      childrenContent: {
+        Stronger: {
+          name: 'Stronger',
+          file: '/home/prajyot-mane/Music/03Stronger.mp3'
+        },
+        "Can't Tell Me Nothing": {
+          name: "Can't Tell Me Nothing",
+          file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+        },
+        'Flashing Lights': {
+          name: 'Flashing Lights',
+          file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+        }
+      },
+      depth: 1
+    }
+  },
+  parent: <ref *2> {
+    extended: true,
+    children: {
+      'J. Cole': {
+        name: 'J. Cole',
+        extended: false,
+        children: {
+          'Friday Night Lights': {
+            name: 'Friday Night Lights',
+            extended: false,
+            children: {
+              'Friday Night Lights (Intro)': {
+                name: 'Friday Night Lights (Intro)',
+                file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+              },
+              'Too Deep for the Intro': {
+                name: 'Too Deep for the Intro',
+                file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+              },
+              'Blow Up': {
+                name: 'Blow Up',
+                file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+              }
+            }
+          },
+          'Born Sinner ': {
+            name: 'Born Sinner ',
+            extended: false,
+            children: {
+              'LAnd of the Snakes': {
+                name: 'LAnd of the Snakes',
+                file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+              }
+            }
+          },
+          'Forest Hills Drive: Live from Fayetteville, NC': {
+            name: 'Forest Hills Drive: Live from Fayetteville, NC',
+            extended: false,
+            children: {
+              "03' Adolescence": {
+                name: "03' Adolescence",
+                file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+              },
+              'A Tale of 2 Citiez': {
+                name: 'A Tale of 2 Citiez',
+                file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+              },
+              'Fire Squad': {
+                name: 'Fire Squad',
+                file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+              },
+              'St. Tropez': {
+                name: 'St. Tropez',
+                file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+              },
+              `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+                name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+                file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+              },
+              'No Role Modelz': {
+                name: 'No Role Modelz',
+                file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+              }
+            }
+          },
+          'The Warm Up': {
+            name: 'The Warm Up',
+            extended: false,
+            children: {
+              'Dead Presidents 2': {
+                name: 'Dead Presidents 2',
+                file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 0,
+        childrenContent: {
+          'Friday Night Lights': {
+            name: 'Friday Night Lights',
+            extended: false,
+            children: {
+              'Friday Night Lights (Intro)': {
+                name: 'Friday Night Lights (Intro)',
+                file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+              },
+              'Too Deep for the Intro': {
+                name: 'Too Deep for the Intro',
+                file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+              },
+              'Blow Up': {
+                name: 'Blow Up',
+                file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+              }
+            }
+          },
+          'Born Sinner ': {
+            name: 'Born Sinner ',
+            extended: false,
+            children: {
+              'LAnd of the Snakes': {
+                name: 'LAnd of the Snakes',
+                file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+              }
+            }
+          },
+          'Forest Hills Drive: Live from Fayetteville, NC': {
+            name: 'Forest Hills Drive: Live from Fayetteville, NC',
+            extended: false,
+            children: {
+              "03' Adolescence": {
+                name: "03' Adolescence",
+                file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+              },
+              'A Tale of 2 Citiez': {
+                name: 'A Tale of 2 Citiez',
+                file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+              },
+              'Fire Squad': {
+                name: 'Fire Squad',
+                file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+              },
+              'St. Tropez': {
+                name: 'St. Tropez',
+                file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+              },
+              `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+                name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+                file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+              },
+              'No Role Modelz': {
+                name: 'No Role Modelz',
+                file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+              }
+            }
+          },
+          'The Warm Up': {
+            name: 'The Warm Up',
+            extended: false,
+            children: {
+              'Dead Presidents 2': {
+                name: 'Dead Presidents 2',
+                file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      },
+      'Kanye West': [Circular *1],
+      Music33: {
+        name: 'Music33',
+        children: {},
+        parent: [Circular *2],
+        position: 2,
+        extended: false,
+        childrenContent: {},
+        depth: 0
+      },
+      'Unknown Artist': {
+        name: 'Unknown Artist',
+        extended: false,
+        children: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 3,
+        childrenContent: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      }
+    },
+    parent: null,
+    depth: -1,
+    childrenContent: {
+      'J. Cole': {
+        name: 'J. Cole',
+        extended: false,
+        children: {
+          'Friday Night Lights': {
+            name: 'Friday Night Lights',
+            extended: false,
+            children: {
+              'Friday Night Lights (Intro)': {
+                name: 'Friday Night Lights (Intro)',
+                file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+              },
+              'Too Deep for the Intro': {
+                name: 'Too Deep for the Intro',
+                file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+              },
+              'Blow Up': {
+                name: 'Blow Up',
+                file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+              }
+            }
+          },
+          'Born Sinner ': {
+            name: 'Born Sinner ',
+            extended: false,
+            children: {
+              'LAnd of the Snakes': {
+                name: 'LAnd of the Snakes',
+                file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+              }
+            }
+          },
+          'Forest Hills Drive: Live from Fayetteville, NC': {
+            name: 'Forest Hills Drive: Live from Fayetteville, NC',
+            extended: false,
+            children: {
+              "03' Adolescence": {
+                name: "03' Adolescence",
+                file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+              },
+              'A Tale of 2 Citiez': {
+                name: 'A Tale of 2 Citiez',
+                file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+              },
+              'Fire Squad': {
+                name: 'Fire Squad',
+                file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+              },
+              'St. Tropez': {
+                name: 'St. Tropez',
+                file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+              },
+              `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+                name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+                file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+              },
+              'No Role Modelz': {
+                name: 'No Role Modelz',
+                file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+              }
+            }
+          },
+          'The Warm Up': {
+            name: 'The Warm Up',
+            extended: false,
+            children: {
+              'Dead Presidents 2': {
+                name: 'Dead Presidents 2',
+                file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 0,
+        childrenContent: {
+          'Friday Night Lights': {
+            name: 'Friday Night Lights',
+            extended: false,
+            children: {
+              'Friday Night Lights (Intro)': {
+                name: 'Friday Night Lights (Intro)',
+                file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+              },
+              'Too Deep for the Intro': {
+                name: 'Too Deep for the Intro',
+                file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+              },
+              'Blow Up': {
+                name: 'Blow Up',
+                file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+              }
+            }
+          },
+          'Born Sinner ': {
+            name: 'Born Sinner ',
+            extended: false,
+            children: {
+              'LAnd of the Snakes': {
+                name: 'LAnd of the Snakes',
+                file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+              }
+            }
+          },
+          'Forest Hills Drive: Live from Fayetteville, NC': {
+            name: 'Forest Hills Drive: Live from Fayetteville, NC',
+            extended: false,
+            children: {
+              "03' Adolescence": {
+                name: "03' Adolescence",
+                file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+              },
+              'A Tale of 2 Citiez': {
+                name: 'A Tale of 2 Citiez',
+                file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+              },
+              'Fire Squad': {
+                name: 'Fire Squad',
+                file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+              },
+              'St. Tropez': {
+                name: 'St. Tropez',
+                file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+              },
+              `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+                name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+                file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+              },
+              'No Role Modelz': {
+                name: 'No Role Modelz',
+                file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+              }
+            }
+          },
+          'The Warm Up': {
+            name: 'The Warm Up',
+            extended: false,
+            children: {
+              'Dead Presidents 2': {
+                name: 'Dead Presidents 2',
+                file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      },
+      'Kanye West': [Circular *1],
+      Music33: {
+        name: 'Music33',
+        children: {},
+        parent: [Circular *2],
+        position: 2,
+        extended: false,
+        childrenContent: {},
+        depth: 0
+      },
+      'Unknown Artist': {
+        name: 'Unknown Artist',
+        extended: false,
+        children: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        parent: [Circular *2],
+        position: 3,
+        childrenContent: {
+          'Unknown Album': {
+            name: 'Unknown Album',
+            extended: false,
+            children: {
+              'foxy.mp3': {
+                name: 'foxy.mp3',
+                file: '/home/prajyot-mane/Music/foxy.mp3'
+              }
+            }
+          }
+        },
+        depth: 0
+      }
+    }
+  },
+  position: 1,
+  childrenContent: {
+    Graduation: {
+      name: 'Graduation',
+      extended: false,
+      children: {
+        Stronger: {
+          name: 'Stronger',
+          file: '/home/prajyot-mane/Music/03Stronger.mp3'
+        },
+        "Can't Tell Me Nothing": {
+          name: "Can't Tell Me Nothing",
+          file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+        },
+        'Flashing Lights': {
+          name: 'Flashing Lights',
+          file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+        }
+      },
+      parent: [Circular *1],
+      position: 0,
+      childrenContent: {
+        Stronger: {
+          name: 'Stronger',
+          file: '/home/prajyot-mane/Music/03Stronger.mp3'
+        },
+        "Can't Tell Me Nothing": {
+          name: "Can't Tell Me Nothing",
+          file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+        },
+        'Flashing Lights': {
+          name: 'Flashing Lights',
+          file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+        }
+      },
+      depth: 1
+    }
+  },
+  depth: 0
+}
+Initial tableData: [ [ 'Title', 'Track' ] ]
+Node has children
+First child: <ref *1> {
+  name: 'Graduation',
+  extended: false,
+  children: {
+    Stronger: {
+      name: 'Stronger',
+      file: '/home/prajyot-mane/Music/03Stronger.mp3'
+    },
+    "Can't Tell Me Nothing": {
+      name: "Can't Tell Me Nothing",
+      file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+    },
+    'Flashing Lights': {
+      name: 'Flashing Lights',
+      file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+    }
+  },
+  parent: <ref *3> {
+    name: 'Kanye West',
+    extended: true,
+    children: { Graduation: [Circular *1] },
+    parent: <ref *2> {
+      extended: true,
+      children: {
+        'J. Cole': {
+          name: 'J. Cole',
+          extended: false,
+          children: {
+            'Friday Night Lights': {
+              name: 'Friday Night Lights',
+              extended: false,
+              children: {
+                'Friday Night Lights (Intro)': {
+                  name: 'Friday Night Lights (Intro)',
+                  file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+                },
+                'Too Deep for the Intro': {
+                  name: 'Too Deep for the Intro',
+                  file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+                },
+                'Blow Up': {
+                  name: 'Blow Up',
+                  file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+                }
+              }
+            },
+            'Born Sinner ': {
+              name: 'Born Sinner ',
+              extended: false,
+              children: {
+                'LAnd of the Snakes': {
+                  name: 'LAnd of the Snakes',
+                  file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+                }
+              }
+            },
+            'Forest Hills Drive: Live from Fayetteville, NC': {
+              name: 'Forest Hills Drive: Live from Fayetteville, NC',
+              extended: false,
+              children: {
+                "03' Adolescence": {
+                  name: "03' Adolescence",
+                  file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+                },
+                'A Tale of 2 Citiez': {
+                  name: 'A Tale of 2 Citiez',
+                  file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+                },
+                'Fire Squad': {
+                  name: 'Fire Squad',
+                  file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+                },
+                'St. Tropez': {
+                  name: 'St. Tropez',
+                  file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+                },
+                `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+                  name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+                  file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+                },
+                'No Role Modelz': {
+                  name: 'No Role Modelz',
+                  file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+                }
+              }
+            },
+            'The Warm Up': {
+              name: 'The Warm Up',
+              extended: false,
+              children: {
+                'Dead Presidents 2': {
+                  name: 'Dead Presidents 2',
+                  file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *2],
+          position: 0,
+          childrenContent: {
+            'Friday Night Lights': {
+              name: 'Friday Night Lights',
+              extended: false,
+              children: {
+                'Friday Night Lights (Intro)': {
+                  name: 'Friday Night Lights (Intro)',
+                  file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+                },
+                'Too Deep for the Intro': {
+                  name: 'Too Deep for the Intro',
+                  file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+                },
+                'Blow Up': {
+                  name: 'Blow Up',
+                  file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+                }
+              }
+            },
+            'Born Sinner ': {
+              name: 'Born Sinner ',
+              extended: false,
+              children: {
+                'LAnd of the Snakes': {
+                  name: 'LAnd of the Snakes',
+                  file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+                }
+              }
+            },
+            'Forest Hills Drive: Live from Fayetteville, NC': {
+              name: 'Forest Hills Drive: Live from Fayetteville, NC',
+              extended: false,
+              children: {
+                "03' Adolescence": {
+                  name: "03' Adolescence",
+                  file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+                },
+                'A Tale of 2 Citiez': {
+                  name: 'A Tale of 2 Citiez',
+                  file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+                },
+                'Fire Squad': {
+                  name: 'Fire Squad',
+                  file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+                },
+                'St. Tropez': {
+                  name: 'St. Tropez',
+                  file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+                },
+                `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+                  name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+                  file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+                },
+                'No Role Modelz': {
+                  name: 'No Role Modelz',
+                  file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+                }
+              }
+            },
+            'The Warm Up': {
+              name: 'The Warm Up',
+              extended: false,
+              children: {
+                'Dead Presidents 2': {
+                  name: 'Dead Presidents 2',
+                  file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        },
+        'Kanye West': [Circular *3],
+        Music33: {
+          name: 'Music33',
+          children: {},
+          parent: [Circular *2],
+          position: 2,
+          extended: false,
+          childrenContent: {},
+          depth: 0
+        },
+        'Unknown Artist': {
+          name: 'Unknown Artist',
+          extended: false,
+          children: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *2],
+          position: 3,
+          childrenContent: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        }
+      },
+      parent: null,
+      depth: -1,
+      childrenContent: {
+        'J. Cole': {
+          name: 'J. Cole',
+          extended: false,
+          children: {
+            'Friday Night Lights': {
+              name: 'Friday Night Lights',
+              extended: false,
+              children: {
+                'Friday Night Lights (Intro)': {
+                  name: 'Friday Night Lights (Intro)',
+                  file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+                },
+                'Too Deep for the Intro': {
+                  name: 'Too Deep for the Intro',
+                  file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+                },
+                'Blow Up': {
+                  name: 'Blow Up',
+                  file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+                }
+              }
+            },
+            'Born Sinner ': {
+              name: 'Born Sinner ',
+              extended: false,
+              children: {
+                'LAnd of the Snakes': {
+                  name: 'LAnd of the Snakes',
+                  file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+                }
+              }
+            },
+            'Forest Hills Drive: Live from Fayetteville, NC': {
+              name: 'Forest Hills Drive: Live from Fayetteville, NC',
+              extended: false,
+              children: {
+                "03' Adolescence": {
+                  name: "03' Adolescence",
+                  file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+                },
+                'A Tale of 2 Citiez': {
+                  name: 'A Tale of 2 Citiez',
+                  file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+                },
+                'Fire Squad': {
+                  name: 'Fire Squad',
+                  file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+                },
+                'St. Tropez': {
+                  name: 'St. Tropez',
+                  file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+                },
+                `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+                  name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+                  file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+                },
+                'No Role Modelz': {
+                  name: 'No Role Modelz',
+                  file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+                }
+              }
+            },
+            'The Warm Up': {
+              name: 'The Warm Up',
+              extended: false,
+              children: {
+                'Dead Presidents 2': {
+                  name: 'Dead Presidents 2',
+                  file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *2],
+          position: 0,
+          childrenContent: {
+            'Friday Night Lights': {
+              name: 'Friday Night Lights',
+              extended: false,
+              children: {
+                'Friday Night Lights (Intro)': {
+                  name: 'Friday Night Lights (Intro)',
+                  file: '/home/prajyot-mane/Music/01 Friday Night Lights (Intro).mp3'
+                },
+                'Too Deep for the Intro': {
+                  name: 'Too Deep for the Intro',
+                  file: '/home/prajyot-mane/Music/02 Too Deep for the Intro-1.mp3'
+                },
+                'Blow Up': {
+                  name: 'Blow Up',
+                  file: '/home/prajyot-mane/Music/08 Blow Up-1.mp3'
+                }
+              }
+            },
+            'Born Sinner ': {
+              name: 'Born Sinner ',
+              extended: false,
+              children: {
+                'LAnd of the Snakes': {
+                  name: 'LAnd of the Snakes',
+                  file: '/home/prajyot-mane/Music/03 LAnd of the Snakes.mp3'
+                }
+              }
+            },
+            'Forest Hills Drive: Live from Fayetteville, NC': {
+              name: 'Forest Hills Drive: Live from Fayetteville, NC',
+              extended: false,
+              children: {
+                "03' Adolescence": {
+                  name: "03' Adolescence",
+                  file: "/home/prajyot-mane/Music/04 03' Adolescence.mp3"
+                },
+                'A Tale of 2 Citiez': {
+                  name: 'A Tale of 2 Citiez',
+                  file: '/home/prajyot-mane/Music/05 A Tale of 2 Citiez.mp3'
+                },
+                'Fire Squad': {
+                  name: 'Fire Squad',
+                  file: '/home/prajyot-mane/Music/06 Fire Squad.mp3'
+                },
+                'St. Tropez': {
+                  name: 'St. Tropez',
+                  file: '/home/prajyot-mane/Music/07 St. Tropez.mp3'
+                },
+                `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`: {
+                  name: `Intermission (Includes "Lights Please," "In the Morning" & "Nobody's Perfect") [feat. Missy Elliott]`,
+                  file: "/home/prajyot-mane/Music/08 Intermission (Includes _Lights Please,_ _In the Morning_ & _Nobody's Perfect_) -feat. Missy Elliott-.mp3"
+                },
+                'No Role Modelz': {
+                  name: 'No Role Modelz',
+                  file: '/home/prajyot-mane/Music/10 No Role Modelz.mp3'
+                }
+              }
+            },
+            'The Warm Up': {
+              name: 'The Warm Up',
+              extended: false,
+              children: {
+                'Dead Presidents 2': {
+                  name: 'Dead Presidents 2',
+                  file: '/home/prajyot-mane/Music/07 Dead Presidents 2.mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        },
+        'Kanye West': [Circular *3],
+        Music33: {
+          name: 'Music33',
+          children: {},
+          parent: [Circular *2],
+          position: 2,
+          extended: false,
+          childrenContent: {},
+          depth: 0
+        },
+        'Unknown Artist': {
+          name: 'Unknown Artist',
+          extended: false,
+          children: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          parent: [Circular *2],
+          position: 3,
+          childrenContent: {
+            'Unknown Album': {
+              name: 'Unknown Album',
+              extended: false,
+              children: {
+                'foxy.mp3': {
+                  name: 'foxy.mp3',
+                  file: '/home/prajyot-mane/Music/foxy.mp3'
+                }
+              }
+            }
+          },
+          depth: 0
+        }
+      }
+    },
+    position: 1,
+    childrenContent: { Graduation: [Circular *1] },
+    depth: 0
+  },
+  position: 0,
+  childrenContent: {
+    Stronger: {
+      name: 'Stronger',
+      file: '/home/prajyot-mane/Music/03Stronger.mp3'
+    },
+    "Can't Tell Me Nothing": {
+      name: "Can't Tell Me Nothing",
+      file: "/home/prajyot-mane/Music/06 Can't Tell Me Nothing.mp3"
+    },
+    'Flashing Lights': {
+      name: 'Flashing Lights',
+      file: '/home/prajyot-mane/Music/09 Flashing Lights (Feat. Dwele).mp3'
+    }
+  },
+  depth: 1
+}
+Node is an artist
+Before setting table data
+tableData: [ [ 'Title', 'Track' ], [ 'No songs selected', '' ] ]
